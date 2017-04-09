@@ -1,3 +1,4 @@
 # alt-source
-Alternate tile, model and animation resources for Minecraft Java Edition
+Alternate tiles, models and animation resources for Minecraft Java Edition (PC)
+Supports Optifine features Custom Colors and Random Mobs
 
