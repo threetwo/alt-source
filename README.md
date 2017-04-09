@@ -1,5 +1,5 @@
 # alt-source
-Alternate tiles, models and animation resources for Minecraft Java Edition (PC)
+**Alternate tiles, models and animation resources for Minecraft Java Edition (PC)**
 
-Supports Optifine features Custom Colors and Random Mobs
+Supports *Optifine* features *CTM*, *Custom Colors* and *Random Mobs*
 
